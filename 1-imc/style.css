@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background: #084c61;
+  width: 480px;
+  height: 640px;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 15px;
+  box-shadow: 0 0 16px #56a3a6;
+  margin: 100px 0;
+}
+
+.title {
+  color: #db504a;
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.input {
+  width: 300px;
+  height: 50px;
+}
+
+.input label {
+  font-size: 24px;
+}
+
+.input input {
+  width: 200px;
+  height: 40px;
+  background: #56a3a6;
+  font-size: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  background: #56a3a6;
+  font-size: 24px;
+  border-radius: 10px;
+}
+
+.result {
+  width: 300px;
+  height: 150px;
+  background: #56a3a6;
+  font-size: 24px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px 20px;
+}
+
+@media (max-width: 480px) {
+  main,
+  input,
+  button {
+    font-size: 15px;
+  }
+}
