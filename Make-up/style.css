@@ -73,6 +73,7 @@ nav a:hover {
 
 .servicos li:hover h2 {
   font-size: 34px;
+  transition: ease .3s;
 }
 
 .servicos h2 {
