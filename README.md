@@ -1,8 +1,6 @@
 # challenges-week
-```
-Desafios para treinar
-```
 
+Desafios para treinar
 
 Calcular Indice da Massa Corporea
 https://geisahalves.github.io/calculadora-imc/
@@ -12,6 +10,13 @@ https://geisahalves.github.io/make-up-bride/index.html
 
 Aplicativo de instrumento AluraMidi
 https://geisahalves.github.io/aluramidi/
+
+Aplicativo Robotron 2000
+https://robotron-2000-e9emgvo0x-geisahalves.vercel.app/
+
+Aplicativo de telefone AluraFone
+
+AluraTintas - data attribute
 
 Trilha Desenvolve - FullStack
 
